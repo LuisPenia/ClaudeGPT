@@ -1,0 +1,32 @@
+.App {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  li {
+    font-weight: lighter;
+    margin: 10px;
+    cursor: pointer;
+    background-color: #2a2d6b;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  li:hover {
+    font-weight: bold;
+    background-color: #89bdc3;
+    color:black
+    
+  }
+  
+  img {
+    max-width: 200px;
+  }
